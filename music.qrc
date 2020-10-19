@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>back.mp3</file>
+        <file>no.mp3</file>
+        <file>yes.mp3</file>
+    </qresource>
+</RCC>
